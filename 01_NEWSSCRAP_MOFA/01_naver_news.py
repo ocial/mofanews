@@ -95,8 +95,8 @@ if __name__ == "__main__":
                     ]
 
     # Define your Telegram bot token and chat ID
-    bot_token = 'INPUT YOUR TOKEN'  # Replace with your bot token
-    chat_id = 'INPUT YOUR CHAT ID'  # Replace with your chat ID
+    bot_token = '7277821774:AAHOU-PM1xmpBldGQnEbOcHYF3pB0wwsSNI'  # Replace with your bot token
+    chat_id = '7449215693'  # Replace with your chat ID
 
     # Get today's date in the required format for the error message
     utc_now = datetime.now(pytz.utc)

@@ -3,20 +3,20 @@ import subprocess
 import sys
 
 # Path to the directory containing your scripts
-script_dir = r'C:\Projects\01_NEWSSCRAP_MOFA'
+script_dir = '/Users/ocial/Desktop/code/mofanews/01_NEWSSCRAP_MOFA'
 
 # List of script files to execute
 scripts = [
-    '03_state_dept.py',
-    '04_white_house.py',
-    '07_dod_news.py',
-    '09_mofa_news.py', 
-    '10_mofa_notice.py', 
-    '05_haitian_times.py',
-    '06_haiti_libre.py',
+    # '03_state_dept.py',
+    # '04_white_house.py',
+    # '07_dod_news.py',
+    # '09_mofa_news.py', 
+    # '10_mofa_notice.py', 
+    # '05_haitian_times.py',
+    # '06_haiti_libre.py',
     #'01_naver_news.py',
     '02_google_news.py',
-    '11_mofa_latin.py'
+    # '11_mofa_latin.py'
 ]
 
 # List of required packages
